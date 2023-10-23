@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "./src"
+    ],
+    "cSpell.words": [
+        "Automator",
+        "PRDA",
+        "pyproject"
+    ]
+}
